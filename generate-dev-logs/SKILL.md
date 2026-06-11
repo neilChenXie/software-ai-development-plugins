@@ -1,7 +1,9 @@
 ---
 name: generate-dev-logs
-description: Generate development logs for a project.
+description: 配合Coding Agent的对话记录插件所生成的对话记录，按模板要求总结生成项目的开发日志.
 ---
+
+# 总结生成开发日志
 
 从项目根目录下的 conversations/ 文件夹下，将生成的文件按天进行总结，每天生成一份markdown总结，存入 .dev-logs/文件夹下。要求如下：
 - conversations下的每个文件，启动一个subagent，来提取出来我的输入指令或选择、大模型提供的反馈（如选项、结果等，不要思考过程）；一般在 [step-finish part] 前后，前面是大模型的反馈，后面是我的选择或指令。

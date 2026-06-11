@@ -3,6 +3,13 @@ name: generate-readme
 description: Generate README.md files for projects and individual files.
 ---
 
+# 生成README.md文件
+
+## How It Works
+
+1. 根据用户需求，生成项目级或文件级的README.md文件
+
+
 ### 生成项目README.md文件
 
 1. 在项目的根目录下生成README.md文件
