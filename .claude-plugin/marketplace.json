@@ -1,0 +1,32 @@
+{
+  "name": "software-ai-development-plugins",
+  "description": "tools for software development with AI",
+  "owner": {
+    "name": "Chen Xie",
+    "email": "chenxie121@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "claude-session-recorder",
+      "description": "Automatically generates Markdown logs of Claude Code session transcripts",
+      "version": "1.0.1",
+      "source": {
+        "source": "github",
+        "repo": "neilChenXie/claude-session-recorder"
+      },
+      "author": {
+        "name": "Chen Xie",
+        "email": "chenxie121@gmail.com"
+      }
+    },
+    {
+      "name": "development-doc-tools",
+      "description": "A collection of tools for software development documentation",
+      "source": "./plugins/development-doc-tools",
+      "author": {
+        "name": "Chen Xie",
+        "email": "chenxie121@gmail.com"
+      }
+    }
+  ]
+}
