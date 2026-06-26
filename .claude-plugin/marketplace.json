@@ -27,6 +27,18 @@
         "name": "Chen Xie",
         "email": "chenxie121@gmail.com"
       }
+    },
+    {
+      "name": "api-tools-knowledge",
+      "description": "A collection of tools for software development knowledge, including Software Usage Documentation, API documentation, SDKs, IoT communication protocols, and code examples.",
+      "source": {
+        "source": "github",
+        "repo": "neilChenXie/api-tools-knowledge"
+      },
+      "author": {
+        "name": "Chen Xie",
+        "email": "chenxie121@gmail.com"
+      }
     }
   ]
 }
