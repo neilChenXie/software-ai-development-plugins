@@ -9,10 +9,9 @@
     {
       "name": "claude-session-recorder",
       "description": "Automatically generates Markdown logs of Claude Code session transcripts",
-      "version": "1.0.1",
       "source": {
-        "source": "github",
-        "repo": "neilChenXie/claude-session-recorder"
+        "source": "url",
+        "url": "https://github.com/neilChenXie/claude-session-recorder"
       },
       "author": {
         "name": "Chen Xie",
@@ -32,8 +31,8 @@
       "name": "api-tools-knowledge",
       "description": "A collection of tools for software development knowledge, including Software Usage Documentation, API documentation, SDKs, IoT communication protocols, and code examples.",
       "source": {
-        "source": "github",
-        "repo": "neilChenXie/api-tools-knowledge"
+        "source": "url",
+        "url": "https://github.com/neilChenXie/api-tools-knowledge"
       },
       "author": {
         "name": "Chen Xie",
